@@ -44,3 +44,14 @@ background-image: linear-gradient(45deg, yellow, orange, red, rgb(253, 25, 139),
     border: 30px solid white;
     border-radius: 100%;
 }
+
+#logo-beats
+{
+    position: absolute;
+top: 50px;
+right: 50px;
+width: 600px;
+height: 600px;
+border-radius: 100%;
+background-image: linear-gradient(red);
+}

@@ -15,5 +15,9 @@
 		<div id="logo-instagram-centro"></div>
 		<div id="logo-instagram-canto"></div>
 	</div>
+
+	<div id="logo-beats">
+		
+	</div>
 </body>
 </html>
