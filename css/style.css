@@ -8,3 +8,39 @@ height: 600px;
 border-radius: 25%;
 background-image: linear-gradient(45deg, yellow, orange, red, rgb(253, 25, 139), purple, blue);
 }
+
+#logo-instagram-borda
+{
+    position: relative;
+    left: 65px;
+    top: 65px;
+    width: 400px;
+    height: 400px;
+
+    border: 35px solid white;
+    border-radius: 30%;
+}
+
+#logo-instagram-centro
+{
+    position: relative;
+    margin-left: 180px;
+    margin-top: -270px;
+    width: 150px;
+    height: 150px;
+
+    border: 35px solid white;
+    border-radius: 100%;
+}
+
+#logo-instagram-canto
+{
+    position: relative;
+    margin-left: 380px;
+    margin-top: -270px;
+    width: 0px;
+    height: 0px;
+
+    border: 30px solid white;
+    border-radius: 100%;
+}

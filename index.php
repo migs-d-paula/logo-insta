@@ -11,7 +11,9 @@
 </head>
 <body>
 	<div id="logo">
-
+		<div id="logo-instagram-borda"></div>
+		<div id="logo-instagram-centro"></div>
+		<div id="logo-instagram-canto"></div>
 	</div>
 </body>
 </html>
